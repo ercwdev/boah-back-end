@@ -16,5 +16,5 @@ Untuk mempermudah kontribusi pada repo, hal-hal yg perlu diperhatikan :
 
 # Tech use
 
-* Bahasa Pemrograman : PHP
-* Framework : Codeigniter 3.1.11
+* Bahasa Pemrograman : PHP version 7.4.2
+* Framework : Codeigniter version 3.1.11
